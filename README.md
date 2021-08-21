@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Surbhi! :stars:</h1>
 
+#### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surbhii25/)](https://www.linkedin.com/in/surbhii25/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surbhi.ec18@nsut.ac.in)](mailto:surbhi.ec18@nsut.ac.in)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/surbhii25)](https://github.com/surbhii25)
