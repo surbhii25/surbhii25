@@ -17,7 +17,7 @@ I'm Surbhi, Final Year Student at 👩🏻‍💻 [Netaji Subhas Institute of Te
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me an [e-mail](mailto:surbhi.ec18@nsut.ac.in) if that sounds like your cup of tea. :coffee:
 
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working on Web Development Project
+- 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning Machine Learning ☕
 <img width="450" height="200" src="https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76111dfe66a65c2d49db1323524efe9a0e70b6e97b3c&rid=giphy.gif&ct=g" align=right>
 
