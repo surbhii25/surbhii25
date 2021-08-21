@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Surbhi! :stars:</h1>
 
 [![LinkedIn](https://img.shields.io/badge/-surbhii25-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/surbhii25/)](https://www.linkedin.com/in/surbhii25/)
-
 [![Email](https://img.shields.io/badge/-surbhi.ec18@nsut.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:surbhi.ec18@nsut.ac.in)](mailto:surbhi.ec18@nsut.ac.in)
 [![GitHub](https://img.shields.io/badge/surbhii25-100000?style=flat&logo=GitHub&logoColor=white&link=https://github.com/surbhii25)](https://github.com/surbhii25)
 [![Twitter](https://img.shields.io/badge/-@surbhii25-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/surbhii25)](https://twitter.com/surbhii25)
+
 ---
 
 ## About Me 👋
@@ -16,7 +16,9 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 
 ## My Coding Profiles 👩🏻‍💻
-
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/surbhii25/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/surbhii25)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/surbhii25)
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
