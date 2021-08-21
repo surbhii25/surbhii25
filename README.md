@@ -7,7 +7,12 @@
 
 
 
-
+# Hello World!! 🤔
+- 💬 Ask me about anything and everything! 
+- 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/surbhii25/)
+- ⚡ Fun fact: I love making Clones of different Websites & Applications. 
+- 💬 Ping Me about #Job Opportunities, #Web Development, #FrontEnd Development, #Speaking Opportunity and anything you like
+---
 
 - 👋 Hi, I’m Surbhi (@surbhii25)
 - 👀 I’m interested in Data Science, Machine Learning and Web Development.
