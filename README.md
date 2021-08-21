@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/-@surbhii25-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/surbhii25)](https://twitter.com/surbhii25)
 ---
 
-## Hi there 👋,           
+## Hi there 👋
 I'm Surbhi, Student at 👩🏻‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
 ---
 
