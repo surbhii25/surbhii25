@@ -1,4 +1,4 @@
-# Surbhi 👩🏻‍💻
+# Surbhi
 
 [![Linkedin](https://img.shields.io/badge/-surbhii25-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/surbhii25/)](https://www.linkedin.com/in/surbhii25/)
 [![Email](https://img.shields.io/badge/-surbhi.ec18@nsut.ac.in-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:surbhi.ec18@nsut.ac.in)](mailto:surbhi.ec18@nsut.ac.in)
@@ -6,7 +6,7 @@
 ---
 
 ## Hi there 👋,           
-I'm Surbhi, Student at 👨‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
+I'm Surbhi, Student at 👩🏻‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
 
 
 
