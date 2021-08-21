@@ -19,7 +19,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Machine Learning ☕
-<img width="300" height="150" src="https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76111dfe66a65c2d49db1323524efe9a0e70b6e97b3c&rid=giphy.gif&ct=g" align=right>
+<img width="450" height="200" src="https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76111dfe66a65c2d49db1323524efe9a0e70b6e97b3c&rid=giphy.gif&ct=g" align=right>
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
