@@ -11,8 +11,8 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.kaggle.com/surbhii25)](https://www.kaggle.com/surbhii25)
 ---
 
-## About Me 👋
-I'm Surbhi, Final Year Student at 👩🏻‍💻 [Netaji Subhas Institute of Technology](http://www.nsit.ac.in/) Pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Surbhi, Final Year Student at 👩🏻‍💻 [Netaji Subhas Institute of Technology](http://www.nsit.ac.in/) Pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I love to code and see myself as a Software Engineer in my later career. 
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me an [e-mail](mailto:surbhi.ec18@nsut.ac.in) if that sounds like your cup of tea. :coffee:
 
