@@ -12,15 +12,23 @@
 ---
 
 ## About Me 👋
-I'm Surbhi, Student at 👩🏻‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
+I'm Surbhi, Final Year Student at 👩🏻‍💻 [Netaji Subhas Institute of Technology](http://www.nsit.ac.in/) Pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me an [e-mail](mailto:surbhi.ec18@nsut.ac.in) if that sounds like your cup of tea. :coffee:
 
-## Technologies I'm Learning :books:
+## ⚡️ A Few Quick Facts
+- 🔭 I’m currently working on Web Development Project
+- 🌱 I’m currently learning Machine Learning ☕
+<img width="490" height="270" src="https://media2.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76111dfe66a65c2d49db1323524efe9a0e70b6e97b3c&rid=giphy.gif&ct=g" align=right>
 
 
-## My Coding Profiles 👩🏻‍💻
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 💻 Web Development
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 DIY Arduino Projects
+- 🎉 Fun-Fact I : I ❤️ Space Science🚀
+- ✨ Fun-Fact II : I ❤️ listening to Music🎵 and watch a lot of Movies🎬
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
