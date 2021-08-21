@@ -30,6 +30,16 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 - 🎉 Fun-Fact I : I ❤️ Space Science🚀
 - ✨ Fun-Fact II : I ❤️ listening to Music🎵 and watch a lot of Movies🎬
 
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=surbhii25&show_icons=true&line_height=21&theme=react" alt="surbhii25's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhii25&theme=react&line_height=27&layout=compact" />
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=surbhii25)
+
+
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/surbhii25/)
