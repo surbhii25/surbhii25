@@ -7,7 +7,7 @@
 ---
 
 ## Hi there 👋
-I'm Surbhi, Student at 👩🏻‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
+## I'm Surbhi, Student at 👩🏻‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
 ---
 
 
