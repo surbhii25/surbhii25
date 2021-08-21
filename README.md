@@ -30,6 +30,9 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 - 🎉 Fun-Fact I : I ❤️ Space Science🚀
 - ✨ Fun-Fact II : I ❤️ listening to Music🎵 and watch a lot of Movies🎬
 
+### 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/DELL-555555.svg?&style=flat-square&logo=dell&logoColor=007DB8"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhii25&theme=react&line_height=27&layout=compact" />
