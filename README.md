@@ -8,6 +8,7 @@
 
 ## About Me 👋
 I'm Surbhi, Student at 👩🏻‍💻 Netaji Subhas Institute of Technology pursuing Bachelor of Engineering (B.E.) in Electronics and Communication Engineering.  I am a tech enthusiast. I love to code and see myself as a Software Engineer in my later career. 
+
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:surbhi.ec18@nsut.ac.in) if that sounds like your cup of tea. :coffee:
 
 
@@ -16,7 +17,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/surbhii25/)
-- ⚡ Fun fact: I love making Clones of different Websites & Applications. 
+- ⚡ Fun fact: I love making clones of different Websites & Applications. 
 - 💬 Ping Me about #Job Opportunities, #Web Development, #FrontEnd Development, #Speaking Opportunity and anything you like
 ---
 
