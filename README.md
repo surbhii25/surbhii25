@@ -26,7 +26,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/surbhii25/)
 - ⚡ Fun fact: I love making clones of different Websites & Applications. 
-- 💬 Ping Me about #Job Opportunities, #Web Development, #FrontEnd Development, #Speaking Opportunity and anything you like
+- 💬 Ping Me about #Job Opportunities, #FrontEnd Development, #Data Science, #Machine Learning, #OpenCV, #Speaking Opportunity and anything you like
 ---
 
 
