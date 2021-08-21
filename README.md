@@ -14,6 +14,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ## Technologies I'm Learning :books:
 
 
+## My Coding Profiles 👩🏻‍💻
+
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
