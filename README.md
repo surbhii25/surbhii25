@@ -3,7 +3,7 @@
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surbhii25/)](https://www.linkedin.com/in/surbhii25/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surbhi.ec18@nsut.ac.in)](mailto:surbhi.ec18@nsut.ac.in)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/surbhii25)](https://github.com/surbhii25)
+[![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/surbhii25)](https://github.com/surbhii25)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/surbhii25)](https://twitter.com/surbhii25)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/surbhii25/)](https://leetcode.com/surbhii25/)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/surbhii25)](https://www.hackerrank.com/surbhii25)
